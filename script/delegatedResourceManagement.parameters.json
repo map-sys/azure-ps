@@ -12,11 +12,13 @@
             "value": "8cea2cfe-eb73-440d-895f-fafbd494371a"
         },
         "authorizations": {
-            "value": {
+            "value": [
+                {
                     "principalId": "c4ddb9c2-fd16-4746-946a-65363695778b",
                     "principalIdDisplayName": "Service supervision",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
             }
+                ]
                 }                
         }
 }
